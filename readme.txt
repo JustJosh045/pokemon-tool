@@ -8,3 +8,5 @@ organize yours how you like.
 
 The beta version goes up first, ill put the final up.
 
+*update - the final [app] is up but so is the beta source
+
